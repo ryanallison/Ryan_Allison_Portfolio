@@ -9,3 +9,5 @@
 
 # [Project 2: EWU GIS Portfolio](https://github.com/ryanallison/EWU-GIS-Portfolio.git)
 A pdf document of projects from my EWU GIS certificate
+
+![](/images/GIS%20Image.png)
