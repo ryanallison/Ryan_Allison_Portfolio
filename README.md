@@ -5,3 +5,7 @@
 - Files include: Latex, PDF/Beamer presentation, and handout of slides.
 
 ![](/images/Riemann%20Sums%20Image.png)
+
+
+# [Project 2: EWU GIS Portfolio]()
+A pdf document of projects from my EWU GIS certificate
