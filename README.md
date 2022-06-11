@@ -1,4 +1,4 @@
-# Ryan_Allison_Portfolio
+# Ryan Allison Portfolio
 
 # [Project 1: Riemann Sums Teaching Demo](https://github.com/ryanallison/Riemann-Sums-Teaching-Demo.git)
 - Teaching demonstration using Riemann Sums to derive the definition of The Definite Integral.
