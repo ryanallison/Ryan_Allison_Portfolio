@@ -7,5 +7,5 @@
 ![](/images/Riemann%20Sums%20Image.png)
 
 
-# [Project 2: EWU GIS Portfolio]()
+# [Project 2: EWU GIS Portfolio](https://github.com/ryanallison/EWU-GIS-Portfolio.git)
 A pdf document of projects from my EWU GIS certificate
