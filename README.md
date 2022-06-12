@@ -8,6 +8,7 @@
 
 
 # [Project 2: EWU GIS Portfolio](https://github.com/ryanallison/EWU-GIS-Portfolio.git)
-A pdf document of projects from my EWU GIS certificate
+- Document of projects from my EWU GIS certificate.
+- Latex file included.
 
 ![](images/GIS%20Image.png)
