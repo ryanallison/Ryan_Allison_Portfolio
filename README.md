@@ -20,8 +20,7 @@
 ![](images/R%20Studio%20Image.png)
 
 # [Aurora Water Project](https://github.com/ryanallison/Aurora-Water-Project.git)
-- This was for a job interview. 
-- This was my first Data Analyst interview after leaving teaching.
+- This was for a my data analyst job interview after leaving teaching back in 2016.
 - We were given about 2 or 3 days to complete.
 - It's not perfect but I think I did a descent job for my skill set at the time.
 - I have come a long ways from then but wanted to showcase this project.
