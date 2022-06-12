@@ -1,4 +1,4 @@
-# Ryan Allison Portfolio
+# Click links for files...
 
 # [Project 1: Riemann Sums Teaching Demo](https://github.com/ryanallison/Riemann-Sums-Teaching-Demo.git)
 - Teaching demonstration using Riemann Sums to derive the definition of The Definite Integral.
@@ -20,7 +20,7 @@
 ![](images/R%20Studio%20Image.png)
 
 # [Aurora Water Project](https://github.com/ryanallison/Aurora-Water-Project.git)
-- This was for job interview. 
+- This was for a job interview. 
 - This was my first Data Analyst interview after leaving teaching.
 - We were given about 2 or 3 days to complete.
 - It's not perfect but I think I did a descent job for my skill set at the time.
