@@ -12,3 +12,6 @@
 - Latex file included.
 
 ![](images/GIS%20Image.png)
+
+
+![](images/R%20Studio%20Image.png)
